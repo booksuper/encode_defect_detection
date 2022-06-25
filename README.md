@@ -1,0 +1,2 @@
+# encode_defect_detection
+基于机器视觉的旋转编码器缺陷检测
